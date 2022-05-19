@@ -1,0 +1,50 @@
+// PRODUCT ROUTES
+
+### Push a new product to the DB
+POST http://localhost:8080/products
+Content-Type: application/json
+
+{
+    "title": "Caculla one tree",
+    "desc": "A flower that shall pass like us at hyper",
+    "img": "https://i.ibb.co/P9t2PHV/plant3-1.png",
+    "cat": [],
+    "price": 100
+}
+
+
+### GET ONE PRODUCT
+GET http://localhost:8080/products/6257ea5c4dabb30c8ac49069
+
+### GET All PRODCUTS
+GET http://localhost:8080/products/
+
+// AUTH ROUTES
+
+### REGISTER USER
+POST http://localhost:8080/users
+Content-Type: application/json
+
+{
+
+    "username":"alexes5",
+    "email": "alexes3@gmail.com",
+    "password": "test123"
+}
+
+### LOGIN USER
+POST http://localhost:8080/users/login
+Content-Type: application/json
+
+{
+   "username":"mahi5",
+   "password": "test123"
+}
+### LOGIN USER
+POST http://localhost:8080/users/login
+Content-Type: application/json
+
+{
+   "username":"",
+   "password": "test123"
+}

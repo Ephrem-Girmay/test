@@ -20,8 +20,8 @@ const About = () => {
                 <P>
                     Lorem Ipsum has been the industry's standard dummy text ever
                     since the 1500s, when an unknown printer took a galley of
-                    type and scrambled it to maining essentially unchanged. It
-                    was popularised in the cently with de
+                    type and scramaining essentially unchanged. It was
+                    popularised in the cently with de
                 </P>
             </Info>
         </Main>

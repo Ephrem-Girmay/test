@@ -19,8 +19,8 @@ const About = () => {
                 </H4>
                 <P>
                     Lorem Ipsum has been the industry's standard dummy text ever
-                    since pr took a galley ofe and scramaining essentially
-                    unchanged. It was popularised in the
+                    since pr took a galley ofeamaining essentially unchanged. It
+                    was popularised in the
                 </P>
             </Info>
         </Main>

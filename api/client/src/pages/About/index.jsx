@@ -18,7 +18,7 @@ const About = () => {
                     wedere
                 </H4>
                 <P>
-                    Lorem Ipsum has been the industry's standard dummy text ever
+                    Lorem sum has been the industry's standard dummy text ever
                     since pr took a galley ofeamaining essentially unchanged. It
                     was popularised in the
                 </P>

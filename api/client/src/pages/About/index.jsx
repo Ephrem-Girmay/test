@@ -20,7 +20,7 @@ const About = () => {
                 <P>
                     Lorem sum has been the industry's standard dummy text ever
                     since pr took a galley ofeamaining essentially unchanged. It
-                    was popularised in the
+                    was populased in the
                 </P>
             </Info>
         </Main>

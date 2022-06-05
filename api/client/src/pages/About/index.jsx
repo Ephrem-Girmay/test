@@ -19,7 +19,7 @@ const About = () => {
                 </H4>
                 <P>
                     Lorem sum has been the industry's standard dummy text ever
-                    since pr ta galley ofeamaining essentially unchanged. It was
+                    since pa galley ofeamaining essentially unchanged. It was
                     popud in the
                 </P>
             </Info>

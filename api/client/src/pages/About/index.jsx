@@ -19,8 +19,8 @@ const About = () => {
                 </H4>
                 <P>
                     Lorem sum has been the industry's standard dummy text ever
-                    since pa galley ofeamaining essentially unchanged. It was
-                    popud in the
+                    since pa galley ofeamaining essentially uncha. It was popud
+                    in the
                 </P>
             </Info>
         </Main>

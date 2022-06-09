@@ -14,7 +14,7 @@ const About = () => {
             </Wrapper>
             <Info>
                 <H4>
-                    Maj home plants Lorem Ipsum abxbans, and agvds ertrbe beba
+                    Maj home plants m Ipsum abxbans, and agvds ertrbe beba
                     wedere
                 </H4>
                 <P>

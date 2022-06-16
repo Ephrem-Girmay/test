@@ -14,7 +14,7 @@ const About = () => {
             </Wrapper>
             <Info>
                 <H4>
-                    Maj home plants m abxbans, and agvds ertrbvbfbef beba wedere
+                    Maj e plants m abxbans, and agvds ertrbvbfbef beba wedere
                 </H4>
                 <P>
                     Lorem sum has been the industry's standard dummy text ever

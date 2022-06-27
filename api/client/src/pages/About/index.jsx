@@ -15,9 +15,9 @@ const About = () => {
             <Info>
                 <H4>Ma lants m abntrbvfgdfgbflllef beba wdsgsdgedere</H4>
                 <P>
-                    Lorem sum has been tehghg industry's stajdard dummy text
-                    ever since pa galley ofeamaining essentially uncha. It popud
-                    in the
+                    Lorem has been tehghg industry's stajdard dummy text ever
+                    since pa galley ofeamaining essentially uncha. It popud in
+                    the
                 </P>
             </Info>
         </Main>

@@ -13,7 +13,7 @@ const About = () => {
                 </Header>
             </Wrapper>
             <Info>
-                <H4>Ma lants m abntrgdfllef beba wdsgsdgedere</H4>
+                <H4>Ma lants m abntrgdbeba wdsgsdgedere</H4>
                 <P>
                     Lorem has been tehghg industry's stajdard dummy text ever
                     since pa galley ofeamaining essentially uncha. It popud in
